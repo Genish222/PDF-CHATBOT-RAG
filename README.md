@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDF Chatbot RAG
 
 Production-ready PDF chatbot using Retrieval-Augmented Generation (RAG).
@@ -63,3 +64,6 @@ This project follows **clean architecture** principles:
 Backend and UI complete: PDF loading, chunking, Gemini embeddings, FAISS vector
 store, Gemini chat completion (`GeminiLLM`), and the Streamlit chat interface
 are all wired together in `app/main.py`.
+=======
+# PDF-CHATBOT-RAG
+>>>>>>> e7b10427539e78f246152eee01cd7c5c7c86c623
