@@ -1,6 +1,9 @@
 # 📄 PDF Chatbot RAG
 
+
 > A production-ready Retrieval-Augmented Generation (RAG) chatbot that enables users to upload PDF documents and ask natural language questions powered by Google Gemini, LangChain, and FAISS.
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -10,6 +13,18 @@
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge"/>
 </p>
+
+---
+
+## 🔗 Live Demo & Repository
+
+- 🚀 **Live Demo:** [genish222-pdf-chat.streamlit.app](https://genish222-pdf-chat.streamlit.app/)
+- 💻 **Repository:** [github.com/Genish222/pdf-chatbot-rag](https://github.com/Genish222/pdf-chatbot-rag)
+
+> ⚠️ **Note:** The live demo runs on Streamlit Community Cloud's free tier — the
+> app may take 30–60 seconds to wake up if it's been idle, and uploaded PDFs
+> are cleared whenever the app restarts.
+
 
 ---
 
