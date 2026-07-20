@@ -190,14 +190,19 @@ Final Answer
 
 # 📸 Screenshots
 
-> Add screenshots of your application here.
+### Home
+> <img width="1888" height="904" alt="image" src="https://github.com/user-attachments/assets/9664dd6b-7a22-4962-a26b-994e97812b08" />
 
-```
-assets/
-├── home.png
-├── upload.png
-└── chat.png
-```
+### Uploading & Indexing a PDF
+<img width="313" height="846" alt="image" src="https://github.com/user-attachments/assets/392b14f0-efde-467d-808c-29ce0bfd88ca" />
+
+
+### Chatting with your Document
+<img width="1902" height="911" alt="image" src="https://github.com/user-attachments/assets/2013b1bb-758a-4058-a006-f0d15868236f" />
+<img width="1879" height="908" alt="image" src="https://github.com/user-attachments/assets/99ee2f7f-324c-41d1-aaec-2a2faeb294ad" />
+
+
+
 
 ---
 
