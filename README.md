@@ -50,7 +50,7 @@ This project follows **Clean Architecture**, separating business logic from exte
 ```
                  ┌──────────────────────┐
                  │     Presentation     │
-                 │      Streamlit UI     │
+                 │      Streamlit UI    │
                  └──────────┬───────────┘
                             │
                  ┌──────────▼───────────┐
